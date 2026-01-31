@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "caesar-cipher-tool"
+version = "1.0.0"
+description = "Reusable Caesar cipher module for educational purposes"
+authors = [
+    { name = "Gabriel Dakinah Vincent" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Education",
+    "Topic :: Security :: Cryptography"
+]
+
+[project.urls]
+"Source" = "https://github.com/Gabriel-Dakinah-Vincent/caesar-cipher-tool.git"
