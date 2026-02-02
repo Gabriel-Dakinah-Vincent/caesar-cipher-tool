@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "caesar-cipher-tool"
-version = "1.0.0"
+version = "1.0.1"
 description = "Reusable Caesar cipher module for educational purposes"
 authors = [
     { name = "Gabriel Dakinah Vincent" }
